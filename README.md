@@ -1,6 +1,8 @@
 # Tombstone
 
-TODO: Write a gem description
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=29UXzfQWOhQ
+" target="_blank"><img src="http://img.youtube.com/vi/29UXzfQWOhQ/0.jpg" 
+alt="Tombstone Youtube Video" width="240" height="180" border="10" /></a>
 
 ## Installation
 
