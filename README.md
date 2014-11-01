@@ -4,6 +4,10 @@
 " target="_blank"><img src="http://img.youtube.com/vi/29UXzfQWOhQ/0.jpg" 
 alt="Tombstone Youtube Video" width="240" height="180" border="10" /></a>
 
+## Requirements
+
+Ruby 2.0 or above
+
 ## Installation
 
 Add this line to your application's Gemfile:
