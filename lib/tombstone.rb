@@ -8,7 +8,11 @@ module Tombstone
   end
 
   def place(date_string = '')
-    logger.warn "Tombstone: #{caller_locations(1,1)[0].label} #{date_string}"
+    backtrace = caller_locations(1,1)[0]
+    message = "Tombstone: #{date_string} - #{backtrace.label} - #{backtrace.absolute_path} Line #: #{backtrace.lineno}"
+    logger.warn message
+    # Outputs the above message to the console, colored red
+    puts "\e[31m#{message}\e[0m"
   end
   module_function :place
 
