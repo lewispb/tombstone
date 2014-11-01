@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["lewis@lewisbuckley.co.uk"]
   spec.summary       = %q{Use Tombstone to highlight dead code.}
   spec.description   = %q{Use Tombstone to highlight dead code. Not sure if some code is safe to remove? Tombstone it.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/lewispb/tombstone"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
