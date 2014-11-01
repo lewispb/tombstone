@@ -2,4 +2,4 @@
 
 require 'tombstone'
 
-%x(cat log/development.log | grep Tombstone: )
+system('cat log/development.log | grep Tombstone: ')
