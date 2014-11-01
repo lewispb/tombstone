@@ -14,7 +14,7 @@ Ruby 2.0 or above
 
 Add this line to your application's Gemfile:
 
-    gem 'tombstone', github: 'lewispb/tombstone'
+    gem 'tombstone'
 
 And then execute:
 
