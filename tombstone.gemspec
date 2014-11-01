@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tombstone::VERSION
   spec.authors       = ["Lewis Buckley"]
   spec.email         = ["lewis@lewisbuckley.co.uk"]
-  spec.summary       = %q{Summary goes here}
-  spec.description   = %q{Hello world}
+  spec.summary       = %q{Use Tombstone to highlight dead code. Not sure if some code is safe to remove? Tombstone it.}
+  spec.description   = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
 
