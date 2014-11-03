@@ -1,4 +1,4 @@
-# Tombstone Introduction
+# Tombstone [![Gem Version](https://badge.fury.io/rb/tombstone.svg)](http://badge.fury.io/rb/tombstone)
 
 Inspired by David Schnepper's Ignite talk **"Isn't That Code Dead?" - Velocity Santa Clara 2014**
 
